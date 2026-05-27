@@ -1,3 +1,5 @@
-./combined_parquet
-./custom_images
-./etrocr_model_5e-05
+combined_parquet/
+custom_images/
+etrocr_model/
+etrocr_model_5e-05/
+processed_dataset/
